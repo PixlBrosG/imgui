@@ -12,7 +12,7 @@ project "ImGui"
  		"imgui.cpp",
  		"imgui_draw.cpp",
  		"imgui_internal.h",
-  		"imgui_tables_cpp"
+  		"imgui_tables.cpp"
  		"imgui_widgets.cpp",
  		"imgui_rectpack.h",
  		"imgui_textedit.h",
