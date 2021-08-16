@@ -7,17 +7,18 @@ project "ImGui"
 
 	files
 	{
-  	"imconfig.h",
-  	"imgui.h",
-  	"imgui.cpp",
-  	"imgui_draw.cpp",
-  	"imgui_internal.h",
-  	"imgui_widgets.cpp",
-  	"imgui_rectpack.h",
-  	"imgui_textedit.h",
-  	"imgui_truetype.h",
-  	"imgui_demo.h"
-  }
+		"imconfig.h",
+		"imgui.h",
+ 		"imgui.cpp",
+ 		"imgui_draw.cpp",
+ 		"imgui_internal.h",
+  		"imgui_tables_cpp"
+ 		"imgui_widgets.cpp",
+ 		"imgui_rectpack.h",
+ 		"imgui_textedit.h",
+ 		"imgui_truetype.h",
+ 		"imgui_demo.h"
+	}
 
 	filter "system:Windows"
 		systemversion "latest"
