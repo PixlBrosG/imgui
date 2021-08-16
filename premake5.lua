@@ -17,7 +17,7 @@ project "ImGui"
  		"imgui_rectpack.h",
  		"imgui_textedit.h",
  		"imgui_truetype.h",
- 		"imgui_demo.h"
+ 		"imgui_demo.cpp"
 	}
 
 	filter "system:Windows"
